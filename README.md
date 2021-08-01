@@ -1,10 +1,5 @@
 ### Hi there, Hope everybody would be Happy & Healthy... 👋
 
-<!--
-**Thepriyanchauhan/Thepriyanchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently pursuing my Bachelo's Degree from GRAPHIC ERA HILL UNIVERSITY ...
 - 🌱 I’m currently learning some Coding Skills like C,C++,HTML,JAVASCRIPT,PYTHON & many Frameworks too...
 - 👯 I’m looking to collaborate on a Startup/Tech Giant to create a Positive Impact on the Community...
